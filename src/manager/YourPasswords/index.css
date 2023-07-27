@@ -1,0 +1,86 @@
+.each-password {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid #c3caea;
+  margin-right: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.color1 {
+  background-color: #0b69ff;
+}
+
+.color2 {
+  background-color: #94a3b8;
+}
+.color3 {
+  background-color: #b6c3ca;
+}
+.color4 {
+  background-color: #7683cb;
+}
+.color5 {
+  background-color: #f59e0b;
+}
+.color6 {
+  background-color: #10b981;
+}
+.color7 {
+  background-color: #f97316;
+}
+.color8 {
+  background-color: #14b8a6;
+}
+.color9 {
+  background-color: #b91c1c;
+}
+.color10 {
+  background-color: #0ea5e9;
+}
+.color11 {
+  background-color: #64748b;
+}
+
+.profile {
+  color: #ffffff;
+  font-size: 15px;
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 50%;
+}
+
+.details-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+}
+
+.name {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 12px;
+  margin: 3px;
+}
+
+.delete-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.dlt-img {
+  height: 12px;
+  width: 12px;
+}
+
+.stars {
+  height: 10px;
+  width: 60px;
+}
